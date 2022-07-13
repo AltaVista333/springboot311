@@ -1,3 +1,7 @@
+.gitignore
+.mvn
+mvnw
+mvnw.cmd
 .jpb
 HELP.md
 target/
